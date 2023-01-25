@@ -1,2 +1,2 @@
 # python
-python automation
+student management system
