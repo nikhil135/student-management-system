@@ -1,0 +1,54 @@
+/* Form Container */
+.form-container {
+  max-width: 800px;
+  margin: 40px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  margin-top: 150px;
+  padding: 0px 30px;
+  padding-bottom: 50px;
+}
+
+/* Form Field Wrapper */
+.form-field {
+  margin-bottom: 20px;
+}
+
+/* Label Styles */
+.form-label {
+  display: block;
+  font-size: 12px;
+  margin-Top: 2px;
+  margin-bottom: 4px;
+  text-align: left; 
+  color: black;
+
+}
+
+/* Input Styles */
+.form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 8px;
+}
+
+/* Button Styles */
+.form-button {
+  display: block;
+  width: 10%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.form-button:hover {
+  background-color: #0056b3;
+}
